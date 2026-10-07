@@ -1,2 +1,2 @@
 # vsearch
-Minimal Alpine image with VSEARCH
+Docker environment for VSEARCH
